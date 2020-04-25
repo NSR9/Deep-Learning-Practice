@@ -13,7 +13,7 @@ Your new target is:
 *Keep Receptive field calculations handy for each of your models. 
 *When ready, attempt S5-Assignment Solution
 
-Model 0
+Model 1 - s5_itr1.ipynb
 
 File Link
 
@@ -32,7 +32,7 @@ The model is Overfitting.
 Test & Train Accuracies can be improved.
 
 
-Model 1
+Model 2 - s5_itr2.ipynb
 
 File Link
 
@@ -52,7 +52,7 @@ Small gap b/w Train and Test Accuracy seems to indicate Underfitting nature of t
 Test Accuracies can be improved like the model can be pushed further.
 
 
-Model 2
+Model 3 - s5_it3.ipynb
 
 File Link
 
@@ -72,7 +72,7 @@ The model is underfitting a bit so I guess I should remove a DropOut Layer.
 Got stuck in 99.1 - 99.3 loop. Couldn't push forward with this architecture, so try convolving till channel size equals 5x5.
 
 
-Model 3
+Model 4 - s5_it4.ipynb
 
 File Link
 
@@ -92,7 +92,7 @@ Consistent model with overall accuracy of 99.3% change.
 Loss goes
 
 
-Model 4
+Model 5 - s5_it5.ipynb
 
 File Link
 
