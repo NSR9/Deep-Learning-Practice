@@ -92,7 +92,7 @@ Consistent model with overall accuracy of 99.3% change.
 Loss goes
 
 
-Model 5 - s5_it5.ipynb
+Model 5 - s5_itr5.ipynb
 
 File Link
 
