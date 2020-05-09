@@ -12,7 +12,8 @@ Fix the network above:
     upload to Github
     Attempt S7-Assignment Solution
     
- Important points regarding S7 Assignment submission.   
+Important points regarding S7 Assignment submission:
+S7 is the folder which contains S7-Assignment contents.
 The S7_mainFile is the main and route file. This file imports the following files:
   1. execute.py
   2. image_tranformations.py
