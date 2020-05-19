@@ -14,7 +14,6 @@ ResNet Variant: ResNet18
 
 Total Params: 11,173,962
 
-Since the model was Overfitting I used L1 & L2
 
 Also Trained the model a bit harder by adding few Image Augmentation Techniques like RandomRotation, HorizonatalFlip & Vertical Flip. Didn't make the mistake of adding all transformations together, but experimented with the first one, analysed the model performance, later added second and lastly included the third one.
 
